@@ -1,6 +1,6 @@
-# 📌 SQL DDL: ALTER TABLE Operations
+📌 SQL DDL: ALTER TABLE Operations
 
-This repository demonstrates DDL (Data Definition Language) operations in SQL, focusing on **ALTER TABLE** commands.  
+This repository demonstrates **DDL (Data Definition Language)** operations in SQL, focusing on **ALTER TABLE** commands.  
 ALTER TABLE is used to **modify an existing table structure** without losing data.
 
 ```sql
